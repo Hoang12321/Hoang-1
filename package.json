@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Hoang12321/Hoang-1#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.8.6"
   }
 }
